@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ashcodes2/Leetcode-/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashcodes2/Leetcode-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ashcodes2/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashcodes2/Leetcode-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
