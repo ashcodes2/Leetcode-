@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashcodes2/Leetcode-/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/ashcodes2/Leetcode-/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashcodes2/Leetcode-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashcodes2/Leetcode-/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ashcodes2/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -49,7 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ashcodes2/Leetcode-/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashcodes2/Leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
