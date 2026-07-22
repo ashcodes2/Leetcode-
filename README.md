@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/ashcodes2/Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ashcodes2/Leetcode-/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ashcodes2/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ashcodes2/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ashcodes2/Leetcode-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
