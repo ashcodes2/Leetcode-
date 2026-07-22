@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashcodes2/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashcodes2/Leetcode-/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/ashcodes2/Leetcode-/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashcodes2/Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashcodes2/Leetcode-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ashcodes2/Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ashcodes2/Leetcode-/tree/master/0402-remove-k-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashcodes2/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
